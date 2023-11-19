@@ -9,4 +9,4 @@
 - followed instructions from provided URL https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python?pivots=python-mode-decorators
 - installed extensions into VSC
 - Created local project
-  
+- Created function app in VSC
