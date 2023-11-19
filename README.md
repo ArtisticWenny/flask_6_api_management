@@ -10,3 +10,9 @@
 - installed extensions into VSC
 - Created local project
 - Created function app in VSC
+
+### 3. GCP Cloud Functions API deployment:
+- followed instructions from provided URL https://cloud.google.com/functions/docs/create-deploy-http-python
+
+### 4. OpenAPI Specification and Documentation:
+- received fetch error internal server error /swagger/v1/swagger.json
